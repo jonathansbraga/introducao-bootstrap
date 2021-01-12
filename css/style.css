@@ -16,10 +16,38 @@ body {
     justify-content: center;
 }
 
-.quem-somos .titulo{
+.titulo{
     margin-bottom: 25px;
 }
 
 .margin{
     padding: 25px;
+}
+
+.parceiros{
+    background-color: aliceblue;
+}
+
+.servicos{
+    background-color: burlywood;
+}
+
+.servicos-info{
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.servicos-img{
+    width: 100%;
+    margin: 0 5px 5px 5px;
+}
+
+.bg-footer{
+    margin: 0;
+    background-color: #4fd4b4;
+    color: black;
+    padding: 5px;
+    font-style: italic;
 }
